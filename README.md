@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+You can include some details about your project such as your objectives and missions.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+You can describe the features of your project such as:
+
+What the project does
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the project
 
 ## Getting started
 
